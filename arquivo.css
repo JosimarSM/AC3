@@ -1,25 +1,34 @@
 body{
-    background:plum ;
+    background:plum !important;
 }
-p.esquerda{
-    color: blue;
-    text-align: right;
+.esquerda{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
-p.centro{
+.centro{
     color: bisque;
     text-align: center;
-    
 }
 .formato2{
-    color: darkslateblue;
+    color: darkslateblue !important;
     text-align: right;
     font-family: 'Courier New', Courier, monospace
 }
 a:visited {
-    color: aliceblue;
+    color: aliceblue !important;
 }
 a:hover{
-    color: aqua;
-    font-size: 70%;
+    color: aqua !important;
 }
+
+.btn-primary {
+    background-color: darkslateblue !important;
+    border-color: darkslateblue !important;    
+}
+.carousel-control-prev, .carousel-control-next {
+    width: 56% !important;
+}
+
