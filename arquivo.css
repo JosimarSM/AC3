@@ -1,0 +1,25 @@
+body{
+    background:plum ;
+}
+p.esquerda{
+    color: blue;
+    text-align: right;
+}
+
+p.centro{
+    color: bisque;
+    text-align: center;
+    
+}
+.formato2{
+    color: darkslateblue;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace
+}
+a:visited {
+    color: aliceblue;
+}
+a:hover{
+    color: aqua;
+    font-size: 70%;
+}
