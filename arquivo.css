@@ -11,10 +11,10 @@ body{
 .centro{
     color: bisque;
     text-align: center;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
 }
 .formato2{
     color: darkslateblue !important;
@@ -45,7 +45,7 @@ a:hover{
     margin-left: 10px;
 }
 .rodape{
-    font-size: 15px;
+    font-size: 10px;
     
 }
 
