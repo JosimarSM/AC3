@@ -45,7 +45,7 @@ a:hover{
     margin-left: 10px;
 }
 .rodape{
-    font-size: 10px;
+    font-size: 13px;
     
 }
 
@@ -56,3 +56,12 @@ a:hover{
         margin-left: -257;
     
 }
+
+.formatar{
+
+    font-size: 15px;
+    color: darkblue
+
+}
+
+
